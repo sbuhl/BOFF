@@ -1,0 +1,152 @@
+a.social{
+	color: grey;
+	padding-right: 10px;
+}
+a.social:hover{
+	color: #007bff;
+}
+.navbar{
+	padding: 0 1rem 0rem 1rem;
+}
+.active{
+	border-top:2px solid #007bff;
+}
+.bg {
+  background: url(img/boff_home.jpg) no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 450px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
+.jumbotron{
+	background: transparent;
+	height: 450px;
+	color: white!important;
+	text-shadow: #444 0 1px 1px;
+}
+p.text-muted{
+	color: white!important;
+}
+.bg-light{
+	background: none!important;
+}
+div.title{
+	position: relative;
+	max-width: 100%;
+	margin-left: 0;
+	margin-bottom: 1rem;
+}
+
+h2{
+	text-transform: uppercase;
+	font-weight: bold;
+	background: white;
+	padding-right: 10px;
+}
+h2 span{
+	color: #007bff;
+}
+h2::before{
+	content: "";
+	border-top: 2rem solid #212529;
+	height:2rem;
+  	position: absolute;
+  	width: 100%;
+  	top:0.2rem;
+  	z-index: -1;
+}
+h2 a{
+	color: #212529;
+}
+h2 a:hover{
+	color:#007bff;
+}
+.detail{
+	max-width: 250px;
+	max-height: 250px ;
+}
+
+.countdown{
+	margin-top: 2rem;
+	background: url(i);
+}
+.sayhi{
+	margin-top: 2rem;
+	background: url(img/sayhi.jpg) no-repeat center center;
+}
+.sayhi{
+	text-align: left !important;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.about{
+	margin-top: 2rem;
+}
+footer{
+	padding: 0.5rem;
+	background-color: #212529;
+}
+
+/* ---------- TIMER ---------- */
+ul#countdown li {
+  display: inline-block;
+  background: transparent url('../img/timer-piece.png') no-repeat left top;
+  width: 104px;
+  margin-bottom: 4em;
+  text-align: center;
+}
+ul#countdown li span {
+  font-size: 3em;
+  font-weight: bold;
+  color: #1f2225;
+  height: 108px;
+  line-height: 108px;
+  position: relative;
+}
+ul#countdown li span::before {
+  content: '';
+  width: 100%;
+  height: 1px;
+  border-top: 1px solid white;
+  position: absolute;
+  top: 31px;
+}
+ul#countdown li p.timeRefDays,
+ul#countdown li p.timeRefHours,
+ul#countdown li p.timeRefMinutes,
+ul#countdown li p.timeRefSeconds {
+  margin-top: 1em;
+  color: #909091;
+  text-transform: uppercase;
+  font-size: .875em;
+}

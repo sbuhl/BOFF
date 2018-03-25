@@ -1,5 +1,9 @@
 # BOFF
 
+To use this repo :
+1. Clone the project
+2. Open index.html in your browser and you're set to go !
+
 ## Project #3 OpenClassrooms
 
 ### Creative brief : Brooklyn Outdoor Film Festival

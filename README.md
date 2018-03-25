@@ -36,4 +36,9 @@ The Brooklyn Vibes Event Co. is looking to create a website for his next event, 
 ### Budget :
 The budget of Jennifer is $3.500. 
 
+### Technical specification :
+(explanation of design and technical choices that were made, even if they're basic)
+
+BT Agency choose to use the 
+
 

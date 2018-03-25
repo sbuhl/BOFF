@@ -63,6 +63,9 @@ h2 a{
 h2 a:hover{
 	color:#007bff;
 }
+h3{
+	color: white;
+}
 .detail{
 	max-width: 250px;
 	max-height: 250px ;
@@ -70,7 +73,9 @@ h2 a:hover{
 
 .countdown{
 	margin-top: 2rem;
-	background: url(i);
+	background: url(img/bridge.jpg) no-repeat center center;
+	background-size: 100%; 
+	color: white;
 }
 .sayhi{
 	margin-top: 2rem;
@@ -118,17 +123,21 @@ footer{
 }
 
 /* ---------- TIMER ---------- */
+
+ul#countdown{
+	margin: 0;
+}
 ul#countdown li {
   display: inline-block;
   background: transparent url('../img/timer-piece.png') no-repeat left top;
   width: 104px;
-  margin-bottom: 4em;
+  margin: 1em 0 0;
   text-align: center;
 }
 ul#countdown li span {
   font-size: 3em;
   font-weight: bold;
-  color: #1f2225;
+  color: #212529;
   height: 108px;
   line-height: 108px;
   position: relative;
@@ -146,7 +155,7 @@ ul#countdown li p.timeRefHours,
 ul#countdown li p.timeRefMinutes,
 ul#countdown li p.timeRefSeconds {
   margin-top: 1em;
-  color: #909091;
+  color: #212529;
   text-transform: uppercase;
   font-size: .875em;
 }

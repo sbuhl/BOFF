@@ -42,6 +42,13 @@
 		"oAP": "\/build\/build",
 		"oF": 0
 		},
+	"\/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/build\/contact.html",
+		"oF": 0
+		},
 	"\/countdown.js": {
 		"ft": 64,
 		"ma": 0,
@@ -129,6 +136,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/contact.jpg": {
+		"ft": 16384,
+		"iS": 173294,
+		"oA": 0,
+		"oAP": "\/build\/img\/contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/corbeau.jpg": {
 		"ft": 16384,
 		"iS": 303163,
@@ -159,6 +176,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/gatsby.jpg": {
+		"ft": 16384,
+		"iS": 772395,
+		"oA": 0,
+		"oAP": "\/build\/img\/gatsby.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/inception.jpg": {
+		"ft": 16384,
+		"iS": 193640,
+		"oA": 0,
+		"oAP": "\/build\/img\/inception.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/jcvd.jpg": {
 		"ft": 16384,
 		"iS": 79848,
@@ -179,6 +216,36 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/news.jpg": {
+		"ft": 16384,
+		"iS": 1643626,
+		"oA": 0,
+		"oAP": "\/build\/img\/news.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/program.jpg": {
+		"ft": 16384,
+		"iS": 871309,
+		"oA": 0,
+		"oAP": "\/build\/img\/program.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/revenant.jpg": {
+		"ft": 16384,
+		"iS": 318599,
+		"oA": 0,
+		"oAP": "\/build\/img\/revenant.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/sayhi.jpg": {
 		"ft": 16384,
 		"iS": 193116,
@@ -187,6 +254,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/shutter.jpg": {
+		"ft": 16384,
+		"iS": 163674,
+		"oA": 0,
+		"oAP": "\/build\/img\/shutter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/timer-area-pattern.png": {

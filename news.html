@@ -66,7 +66,14 @@
     </header>
 
     <main role="main">
-		
+		<div class="news"></div>
+
+      	<section class="jumbotron text-center">
+	        <div class="container">
+	          <h1 class="jumbotron-heading">Latests news</h1>
+	          <p class="lead text-muted">From August 5th through 8th, from 6pm to midnight. </p>
+	        </div>
+      	</section>
         <div class="container">
 			<div class="row title">
 				<h2><a href="#">Latest <span>News</span></a></h2>
@@ -227,8 +234,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.js" ></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<script>
+    	var jumboHeight = $('.jumbotron').outerHeight();
+		function parallax(){
+		    var scrolled = $(window).scrollTop();
+		    $('.news').css('height', (jumboHeight-scrolled) + 'px');
+		}
 
-  </body>
-  </body>
+		$(window).scroll(function(e){
+		    parallax();
+		});
+    </script>
+</body>
 </html>
 

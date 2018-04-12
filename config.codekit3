@@ -7,7 +7,7 @@
 		"uuidString": "81429810-7181-4726-8664-A1E192925666"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -69,6 +69,7 @@
 	"\/img\/about.jpg": {
 		"ft": 16384,
 		"iS": 87036,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/about.jpg",
 		"oF": 0,
@@ -79,6 +80,7 @@
 	"\/img\/almodovar.jpg": {
 		"ft": 16384,
 		"iS": 159422,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/almodovar.jpg",
 		"oF": 0,
@@ -89,6 +91,7 @@
 	"\/img\/bgbn.jpg": {
 		"ft": 16384,
 		"iS": 80511,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/bgbn.jpg",
 		"oF": 0,
@@ -99,6 +102,7 @@
 	"\/img\/boff_home.jpg": {
 		"ft": 16384,
 		"iS": 510174,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/boff_home.jpg",
 		"oF": 0,
@@ -109,6 +113,7 @@
 	"\/img\/bridge.jpg": {
 		"ft": 16384,
 		"iS": 1920925,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/bridge.jpg",
 		"oF": 0,
@@ -119,6 +124,7 @@
 	"\/img\/bruce-willis.jpg": {
 		"ft": 16384,
 		"iS": 108250,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/bruce-willis.jpg",
 		"oF": 0,
@@ -129,6 +135,7 @@
 	"\/img\/casablanca.jpg": {
 		"ft": 16384,
 		"iS": 36369,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/casablanca.jpg",
 		"oF": 0,
@@ -139,6 +146,7 @@
 	"\/img\/contact.jpg": {
 		"ft": 16384,
 		"iS": 173294,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/contact.jpg",
 		"oF": 0,
@@ -149,6 +157,7 @@
 	"\/img\/corbeau.jpg": {
 		"ft": 16384,
 		"iS": 303163,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/corbeau.jpg",
 		"oF": 0,
@@ -159,6 +168,7 @@
 	"\/img\/countdown.jpg": {
 		"ft": 16384,
 		"iS": 49393,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/countdown.jpg",
 		"oF": 0,
@@ -169,6 +179,7 @@
 	"\/img\/dictateur.jpg": {
 		"ft": 16384,
 		"iS": 138982,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/dictateur.jpg",
 		"oF": 0,
@@ -179,6 +190,7 @@
 	"\/img\/gatsby.jpg": {
 		"ft": 16384,
 		"iS": 772395,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/gatsby.jpg",
 		"oF": 0,
@@ -189,6 +201,7 @@
 	"\/img\/inception.jpg": {
 		"ft": 16384,
 		"iS": 193640,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/inception.jpg",
 		"oF": 0,
@@ -199,6 +212,7 @@
 	"\/img\/jcvd.jpg": {
 		"ft": 16384,
 		"iS": 79848,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/jcvd.jpg",
 		"oF": 0,
@@ -209,6 +223,7 @@
 	"\/img\/morttrousses.jpg": {
 		"ft": 16384,
 		"iS": 163064,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/morttrousses.jpg",
 		"oF": 0,
@@ -219,6 +234,7 @@
 	"\/img\/news.jpg": {
 		"ft": 16384,
 		"iS": 1643626,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/news.jpg",
 		"oF": 0,
@@ -229,6 +245,7 @@
 	"\/img\/program.jpg": {
 		"ft": 16384,
 		"iS": 871309,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/program.jpg",
 		"oF": 0,
@@ -239,6 +256,7 @@
 	"\/img\/revenant.jpg": {
 		"ft": 16384,
 		"iS": 318599,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/revenant.jpg",
 		"oF": 0,
@@ -249,6 +267,7 @@
 	"\/img\/sayhi.jpg": {
 		"ft": 16384,
 		"iS": 193116,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/sayhi.jpg",
 		"oF": 0,
@@ -259,6 +278,7 @@
 	"\/img\/shutter.jpg": {
 		"ft": 16384,
 		"iS": 163674,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/build\/img\/shutter.jpg",
 		"oF": 0,
@@ -346,7 +366,8 @@
 	"creationDate": 544258625,
 	"displayValue": "BOFF",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_green"
+	"iconImageName": "brackets_green",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2149,6 +2170,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

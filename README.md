@@ -43,6 +43,8 @@ The budget of Jennifer is $3.500.
 ### Technical specification :
 (explanation of design and technical choices that were made, even if they're basic)
 
-BT Agency choose to use the 
-
+BT Agency choose to use the Bootstrap technology to make the website. The main reason is the speed of creation. Indeed, thanks to Bootstrap, it's really fast to build a nice website with the use of the classes from this tool.
+The responsiveness of the website is "out of the box" and it's think for the mobile first.
+This version of Bootstrap, V4, is using the new technologies "Flexbox", so it's even more easy to play with the position of the elements on your grid.
+To adapt this website to our needs, we only needed to create 215 personnal lines of CSS. It's really few.
 

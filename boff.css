@@ -114,6 +114,18 @@ h3{
 	background: url(img/bridge.jpg) no-repeat center center;
 	background-size: 100%; 
 	color: white;
+  position: relative;
+}
+.overlay:before{
+  position: absolute;
+  content:" ";
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  display: block;
+  z-index:0;
+  background-color: rgba(33,37,41,0.5);
 }
 .sayhi{
 	margin-top: 2rem;

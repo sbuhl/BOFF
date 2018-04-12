@@ -47,4 +47,5 @@ BT Agency choose to use the Bootstrap technology to make the website. The main r
 The responsiveness of the website is "out of the box" and it's think for the mobile first.
 This version of Bootstrap, V4, is using the new technologies "Flexbox", so it's even more easy to play with the position of the elements on your grid.
 To adapt this website to our needs, we only needed to create 215 personnal lines of CSS. It's really few.
+For the launch of the website online, we used the technologies from Amazon Web Services and we bought the domain on OVH.com
 

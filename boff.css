@@ -23,6 +23,15 @@ a.social:hover{
   left:0;
   z-index: -1;
 }
+.bgblack {
+  background-color: rgba(0,0,0, 0.5);
+  position: fixed;
+  width: 100%;
+  height: 450px; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
 .program {
   background: url(img/program.jpg) no-repeat center center;
   position: fixed;
@@ -31,6 +40,9 @@ a.social:hover{
   top:0;
   left:0;
   z-index: -1;
+}
+.col-md-6{
+  margin-top: 1.25rem;
 }
 .news {
   background: url(img/news.jpg) no-repeat center center;
@@ -87,10 +99,10 @@ h2::before{
 	content: "";
 	border-top: 2rem solid #212529;
 	height:2rem;
-  	position: absolute;
-  	width: 100%;
-  	top:0.2rem;
-  	z-index: -1;
+	position: absolute;
+	width: 100%;
+	top:0.2rem;
+	z-index: -1;
 }
 h2 a{
 	color: #212529;
@@ -108,11 +120,17 @@ h3{
 	max-width: 250px;
 	max-height: 250px ;
 }
+.album{
+  padding-bottom: 0!important;
+}
+.card-body{
+  padding: 0.5rem;
+}
 
 .countdown{
 	margin-top: 2rem;
 	background: url(img/bridge.jpg) no-repeat center center;
-	background-size: 100%; 
+  background-size: cover;
 	color: white;
   position: relative;
 }
@@ -175,11 +193,15 @@ footer{
 	background-color: #212529;
 
 }
+.img-thumbnail{
+  margin-top: 3.7rem;
+}
 
 /* ---------- TIMER ---------- */
 
 ul#countdown{
 	margin: 0;
+  padding-left: 0;
 }
 ul#countdown li {
   display: inline-block;
@@ -209,7 +231,7 @@ ul#countdown li p.timeRefHours,
 ul#countdown li p.timeRefMinutes,
 ul#countdown li p.timeRefSeconds {
   margin-top: 1em;
-  color: #212529;
+  color: #007bff;
   text-transform: uppercase;
   font-size: .875em;
 }

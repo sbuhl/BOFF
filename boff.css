@@ -235,3 +235,14 @@ ul#countdown li p.timeRefSeconds {
   text-transform: uppercase;
   font-size: .875em;
 }
+
+@media (max-width: 576px) { 
+h1{
+  font-size: 2rem;
+  } 
+.lead{
+  font-size: 1em;
+  }
+h2{
+  font-size: 1.8rem;
+  }}
